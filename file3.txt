@@ -2,3 +2,4 @@ ini adalah perubahan pertama file3.txt
 ternyata ada yang kurang
 Feature 3
 Feature B
+feature c
