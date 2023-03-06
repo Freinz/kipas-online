@@ -1,3 +1,4 @@
 git restore --staged namafile
 file1.txt
 feature a
+Feature B
